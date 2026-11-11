@@ -330,12 +330,12 @@
   ],
   "org_events": {},
   "validate_prs": {
-   "layr-labs/curvesma.sh": "https://github.com/Layr-Labs/curvesma.sh/pull/4161",
+   "layr-labs/curvesma.sh": "https://github.com/Layr-Labs/curvesma.sh/pull/4175",
    "layr-labs/dcp": "https://github.com/Layr-Labs/dcp/pull/1676",
-   "layr-labs/ecdsafail-challenge": "https://github.com/Layr-Labs/ecdsafail-challenge/pull/2736",
+   "layr-labs/ecdsafail-challenge": "https://github.com/Layr-Labs/ecdsafail-challenge/pull/2739",
    "layr-labs/eip8200-challenges": "https://github.com/Layr-Labs/eip8200-challenges/pull/3115",
-   "layr-labs/flock-challenge": "https://github.com/Layr-Labs/flock-challenge/pull/5376",
-   "layr-labs/labinius-fast-challenge": "https://github.com/Layr-Labs/labinius-fast-challenge/pull/3327",
+   "layr-labs/flock-challenge": "https://github.com/Layr-Labs/flock-challenge/pull/5379",
+   "layr-labs/labinius-fast-challenge": "https://github.com/Layr-Labs/labinius-fast-challenge/pull/3330",
    "mooselumph/hash-smash-pareto": "https://github.com/mooselumph/hash-smash-pareto/pull/84"
   }
  }
