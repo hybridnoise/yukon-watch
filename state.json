@@ -75,7 +75,7 @@
    "layr-labs/ec-rank": "open",
    "layr-labs/matrices-fast": "closed",
    "mooselumph/circuitbreaker/main": "open",
-   "mooselumph/dcp/main": "open",
+   "mooselumph/dcp/main": "paused",
    "mooselumph/hashsmash-pareto/blake3": "open",
    "mooselumph/hashsmash-pareto/poseidon": "open",
    "mooselumph/hashsmash-pareto/sha256": "open",
