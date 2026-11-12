@@ -330,12 +330,15 @@
   ],
   "org_events": {},
   "validate_prs": {
-   "layr-labs/curvesma.sh": "https://github.com/Layr-Labs/curvesma.sh/pull/4184",
-   "layr-labs/dcp": "https://github.com/Layr-Labs/dcp/pull/1677",
-   "layr-labs/ecdsafail-challenge": "https://github.com/Layr-Labs/ecdsafail-challenge/pull/2741",
-   "layr-labs/eip8200-challenges": "https://github.com/Layr-Labs/eip8200-challenges/pull/3115",
-   "layr-labs/flock-challenge": "https://github.com/Layr-Labs/flock-challenge/pull/5381",
-   "layr-labs/labinius-fast-challenge": "https://github.com/Layr-Labs/labinius-fast-challenge/pull/3335",
+   "layr-labs/arena-fortress": "https://github.com/Layr-Labs/arena-fortress/pull/149",
+   "layr-labs/curvesma.sh": "https://github.com/Layr-Labs/curvesma.sh/pull/4294",
+   "layr-labs/dcp": "https://github.com/Layr-Labs/dcp/pull/1720",
+   "layr-labs/ecdsafail-challenge": "https://github.com/Layr-Labs/ecdsafail-challenge/pull/2777",
+   "layr-labs/eip8200-challenges": "https://github.com/Layr-Labs/eip8200-challenges/pull/3117",
+   "layr-labs/flock-challenge": "https://github.com/Layr-Labs/flock-challenge/pull/5402",
+   "layr-labs/flock-challenge-multi": "https://github.com/Layr-Labs/flock-challenge-multi/pull/3976",
+   "layr-labs/hash-smash-pareto": "https://github.com/Layr-Labs/hash-smash-pareto/pull/1701",
+   "layr-labs/labinius-fast-challenge": "https://github.com/Layr-Labs/labinius-fast-challenge/pull/3337",
    "mooselumph/hash-smash-pareto": "https://github.com/mooselumph/hash-smash-pareto/pull/84"
   }
  }
