@@ -202,6 +202,9 @@ def main():
             coverage.append({"kind": "coverage_recovered", "source": kind})
             degraded.discard(kind)
         fails[kind] = 0
+        if kind == "validate_prs":  # Layr-Labs repos already in the name list are covered by layr_repos
+            known_layr = {f"layr-labs/{n.lower()}" for n in (new_snaps.get("layr_repos") or [])}
+            cur = {k: v for k, v in cur.items() if k not in known_layr}
         d = diff(kind, snaps.get(kind), cur)
         if d:
             changes.append({"kind": kind, **d})
