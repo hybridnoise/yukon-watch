@@ -108,15 +108,15 @@
     "/circuitbreaker",
     "/create",
     "/dcp",
-    "/evm.fast",
     "/leaderboard",
     "/lighter",
     "/openrsi",
     "/privacy",
+    "/shorecdlp",
     "/terms",
     "/virtualembryo"
    ],
-   "showing": "6 of 18"
+   "showing": "6 of 22"
   },
   "layr_repos": [
    "EigenHopper",
