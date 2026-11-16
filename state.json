@@ -104,19 +104,19 @@
   "homepage": {
    "links": [
     "/activity",
+    "/arena-fortress",
+    "/circuitbreaker",
     "/create",
-    "/curvesmash",
-    "/ecdsafail-lean",
+    "/dcp",
     "/evm.fast",
     "/leaderboard",
     "/lighter",
     "/openrsi",
     "/privacy",
-    "/shorecdlp",
     "/terms",
     "/virtualembryo"
    ],
-   "showing": "6 of 15"
+   "showing": "6 of 18"
   },
   "layr_repos": [
    "EigenHopper",
