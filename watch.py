@@ -21,7 +21,11 @@ from zoneinfo import ZoneInfo
 
 STATE = Path(__file__).with_name("state.json")
 GH = "https://api.github.com"
-ET = ZoneInfo("America/Indianapolis")
+try:
+    ET = ZoneInfo("America/New_York")  # Indiana follows Eastern time
+except Exception:  # runner missing tz database: fall back to fixed EST
+    from datetime import timezone, timedelta
+    ET = timezone(timedelta(hours=-5))
 QUIET_START, QUIET_END = 0, 8  # midnight-8am ET: hold changes until 8am
 FIXTURES = {"mooselumph/toy-benchmark-review"}
 CHALLENGE_OWNERS = {"layr-labs", "mooselumph", "holindauer", "eigenlabs",
