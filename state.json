@@ -40,7 +40,7 @@
    "Holindauer/curvesmash/bls12-381-g1-ecdlp-plain": "open",
    "Holindauer/curvesmash/bn254-gt-dlp": "open",
    "Holindauer/curvesmash/bn254-pairing-inversion": "open",
-   "Holindauer/curvesmash/p256-ecdlp": "open",
+   "Holindauer/curvesmash/p256-ecdlp": "paused",
    "Holindauer/curvesmash/secp256k1-ecdlp": "open",
    "Holindauer/labinius-fast": "open",
    "Holindauer/labinius-fast/arm": "open",
