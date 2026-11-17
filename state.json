@@ -14,6 +14,7 @@
    "Holindauer/curvesmash",
    "Holindauer/labinius-fast",
    "brandon-eigenlabs/arena-fortress-s0",
+   "eigenlabs/commit-golf",
    "eigenlabs/ecdsafail-lean",
    "eigenlabs/eip8200-challenges",
    "eigenlabs/evm-fast",
@@ -50,6 +51,8 @@
    "davidtai/mlxfast-gemma4-26b-a4b": "closed",
    "davidtai/qwen38-125b-a6b-cuda-v1": "closed",
    "davidtai/qwen38-125b-a6b-mlx-v1": "closed",
+   "eigenlabs/commit-golf/pareto": "open",
+   "eigenlabs/commit-golf/product": "open",
    "eigenlabs/ecdsafail-lean/lean": "open",
    "eigenlabs/eip8200-challenges/modexp": "open",
    "eigenlabs/eip8200-challenges/ripemd160": "open",
@@ -106,9 +109,9 @@
     "/activity",
     "/arena-fortress",
     "/circuitbreaker",
+    "/commit-golf",
     "/create",
     "/dcp",
-    "/evm.fast",
     "/leaderboard",
     "/lighter",
     "/openrsi",
@@ -116,7 +119,7 @@
     "/terms",
     "/virtualembryo"
    ],
-   "showing": "6 of 18"
+   "showing": "6 of 19"
   },
   "layr_repos": [
    "EigenHopper",
@@ -150,6 +153,7 @@
    "chaind",
    "circuitbreaker-llm-verifier",
    "clout-cards",
+   "commit.golf",
    "compute-escrow-privy",
    "crypto-libs",
    "cs-sandboxing-poc",
@@ -328,7 +332,13 @@
    "zksync-era",
    "zugzwang"
   ],
-  "org_events": {},
+  "org_events": {
+   "20423538044": {
+    "at": "2026-10-13T12:39:56Z",
+    "repo": "Layr-Labs/commit.golf",
+    "type": "PublicEvent"
+   }
+  },
   "validate_prs": {
    "layr-labs/arena-fortress": "https://github.com/Layr-Labs/arena-fortress/pull/159",
    "layr-labs/curvesma.sh": "https://github.com/Layr-Labs/curvesma.sh/pull/4418",
