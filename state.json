@@ -57,7 +57,7 @@
    "eigenlabs/eip8200-challenges/modexp": "open",
    "eigenlabs/eip8200-challenges/ripemd160": "open",
    "eigenlabs/evm-fast-rocq/rocq": "open",
-   "eigenlabs/evm-fast/lean": "paused",
+   "eigenlabs/evm-fast/lean": "open",
    "eigenlabs/flock-challenge": "open",
    "eigenlabs/flock-challenge-multi/x86": "open",
    "eigenlabs/heesch": "open",
