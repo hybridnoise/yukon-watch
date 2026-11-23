@@ -99,10 +99,10 @@
    "openfrontiercs/sphere-packing": "closed",
    "openfrontiercs/traveling-santa": "closed",
    "openfrontiercs/worldmap": "closed",
-   "proximity-prize/proximity-prize/binary-irs-reduction-threshold-lower": "open",
-   "proximity-prize/proximity-prize/binary-irs-reduction-threshold-upper": "open",
-   "proximity-prize/proximity-prize/irs-reduction-threshold-lower": "open",
-   "proximity-prize/proximity-prize/irs-reduction-threshold-upper": "open"
+   "proximity-prize/proximity-prize/binary-irs-reduction-threshold-lower": "paused",
+   "proximity-prize/proximity-prize/binary-irs-reduction-threshold-upper": "paused",
+   "proximity-prize/proximity-prize/irs-reduction-threshold-lower": "paused",
+   "proximity-prize/proximity-prize/irs-reduction-threshold-upper": "paused"
   },
   "homepage": {
    "links": [
