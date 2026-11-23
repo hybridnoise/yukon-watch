@@ -1,7 +1,7 @@
 {
  "degraded": [],
  "fail_streak": {
-  "api_challenges": 0,
+  "api_challenges": 1,
   "api_tracks": 0,
   "homepage": 0,
   "layr_repos": 0,
@@ -107,19 +107,18 @@
   "homepage": {
    "links": [
     "/activity",
-    "/arena-fortress",
-    "/circuitbreaker",
-    "/commit-golf",
     "/create",
-    "/dcp",
+    "/curvesmash",
+    "/ecdsafail-lean",
     "/leaderboard",
     "/lighter",
     "/openrsi",
     "/privacy",
+    "/shorecdlp",
     "/terms",
     "/virtualembryo"
    ],
-   "showing": "6 of 20"
+   "showing": "6 of 19"
   },
   "layr_repos": [
    "EigenHopper",
