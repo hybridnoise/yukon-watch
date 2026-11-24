@@ -106,14 +106,15 @@
   },
   "homepage": {
    "links": [
+    "/circuitbreaker",
+    "/commit-golf",
     "/create",
-    "/curvesmash",
-    "/ecdsafail-lean",
+    "/dcp",
+    "/evm.fast",
     "/leaderboard",
     "/lighter",
     "/openrsi",
     "/privacy",
-    "/shorecdlp",
     "/terms",
     "/virtualembryo"
    ],
@@ -350,7 +351,7 @@
    }
   },
   "validate_prs": {
-   "eigenlabs-yukon-staging/p-equals-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-equals-np-lean-proof/pull/34",
+   "eigenlabs-yukon-staging/p-equals-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-equals-np-lean-proof/pull/38",
    "layr-labs/arena-fortress": "https://github.com/Layr-Labs/arena-fortress/pull/159",
    "layr-labs/curvesma.sh": "https://github.com/Layr-Labs/curvesma.sh/pull/4418",
    "layr-labs/dcp": "https://github.com/Layr-Labs/dcp/pull/1840",
