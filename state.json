@@ -44,7 +44,7 @@
    "Holindauer/curvesmash/secp256k1-ecdlp": "open",
    "Holindauer/labinius-fast": "open",
    "Holindauer/labinius-fast/arm": "open",
-   "brandon-eigenlabs/arena-fortress-s0/harness-glm-5-3-flash": "open",
+   "brandon-eigenlabs/arena-fortress-s0/harness-glm-5-3-flash": "closed",
    "davidtai/cudafast-bonsai2-9b": "closed",
    "davidtai/mlxfast-bonsai2-27b": "closed",
    "davidtai/mlxfast-bonsai2-9b": "closed",
@@ -351,7 +351,7 @@
    }
   },
   "validate_prs": {
-   "eigenlabs-yukon-staging/p-equals-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-equals-np-lean-proof/pull/7",
+   "eigenlabs-yukon-staging/p-equals-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-equals-np-lean-proof/pull/9",
    "layr-labs/arena-fortress": "https://github.com/Layr-Labs/arena-fortress/pull/159",
    "layr-labs/curvesma.sh": "https://github.com/Layr-Labs/curvesma.sh/pull/4418",
    "layr-labs/dcp": "https://github.com/Layr-Labs/dcp/pull/1840",
