@@ -350,7 +350,7 @@
    }
   },
   "validate_prs": {
-   "eigenlabs-yukon-staging/bsc-2000-1000": "https://github.com/eigenlabs-yukon-staging/bsc-2000-1000/pull/52",
+   "eigenlabs-yukon-staging/bsc-2000-1000": "https://github.com/eigenlabs-yukon-staging/bsc-2000-1000/pull/54",
    "eigenlabs-yukon-staging/p-equals-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-equals-np-lean-proof/pull/115",
    "eigenlabs-yukon-staging/p-neq-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-neq-np-lean-proof/pull/4",
    "layr-labs/arena-fortress": "https://github.com/Layr-Labs/arena-fortress/pull/159",
