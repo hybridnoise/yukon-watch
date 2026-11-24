@@ -106,19 +106,19 @@
   },
   "homepage": {
    "links": [
+    "/circuitbreaker",
+    "/commit-golf",
     "/create",
-    "/curvesmash",
-    "/ecdsafail-lean",
+    "/dcp",
     "/evm.fast",
     "/leaderboard",
     "/lighter",
     "/openrsi",
     "/privacy",
-    "/shorecdlp",
     "/terms",
     "/virtualembryo"
    ],
-   "showing": "6 of 16"
+   "showing": "6 of 19"
   },
   "layr_repos": [
    "EigenHopper",
@@ -351,7 +351,7 @@
    }
   },
   "validate_prs": {
-   "eigenlabs-yukon-staging/bsc-2000-1000": "https://github.com/eigenlabs-yukon-staging/bsc-2000-1000/pull/31",
+   "eigenlabs-yukon-staging/bsc-2000-1000": "https://github.com/eigenlabs-yukon-staging/bsc-2000-1000/pull/33",
    "eigenlabs-yukon-staging/p-equals-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-equals-np-lean-proof/pull/115",
    "eigenlabs-yukon-staging/p-neq-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-neq-np-lean-proof/pull/4",
    "layr-labs/arena-fortress": "https://github.com/Layr-Labs/arena-fortress/pull/159",
