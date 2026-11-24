@@ -53,6 +53,7 @@
    "davidtai/qwen38-125b-a6b-mlx-v1": "closed",
    "eigenlabs/commit-golf/pareto": "open",
    "eigenlabs/commit-golf/product": "open",
+   "eigenlabs/cudafast-muse-glimmer-30b": "open",
    "eigenlabs/ecdsafail-lean/lean": "open",
    "eigenlabs/eip8200-challenges/modexp": "open",
    "eigenlabs/eip8200-challenges/ripemd160": "open",
@@ -63,6 +64,7 @@
    "eigenlabs/heesch": "open",
    "eigenlabs/lighter-prover-challenge": "closed",
    "eigenlabs/mlxfast-challenge": "closed",
+   "eigenlabs/mlxfast-muse-glimmer-30b": "open",
    "eigenlabs/quantum-safe-bitcoin-challenge/pinning": "closed",
    "eigenlabs/quantum-safe-bitcoin-challenge/subset": "closed",
    "eigenlabs/qwen38-challenge": "closed",
@@ -109,6 +111,7 @@
     "/create",
     "/curvesmash",
     "/ecdsafail-lean",
+    "/evm.fast",
     "/leaderboard",
     "/lighter",
     "/openrsi",
@@ -117,7 +120,7 @@
     "/terms",
     "/virtualembryo"
    ],
-   "showing": "6 of 19"
+   "showing": "6 of 17"
   },
   "layr_repos": [
    "EigenHopper",
