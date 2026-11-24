@@ -109,6 +109,7 @@
     "/create",
     "/curvesmash",
     "/ecdsafail-lean",
+    "/evm.fast",
     "/leaderboard",
     "/lighter",
     "/openrsi",
@@ -117,7 +118,7 @@
     "/terms",
     "/virtualembryo"
    ],
-   "showing": "6 of 19"
+   "showing": "6 of 16"
   },
   "layr_repos": [
    "EigenHopper",
@@ -350,9 +351,9 @@
    }
   },
   "validate_prs": {
-   "eigenlabs-yukon-staging/bsc-2000-1000": "https://github.com/eigenlabs-yukon-staging/bsc-2000-1000/pull/5",
-   "eigenlabs-yukon-staging/p-equals-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-equals-np-lean-proof/pull/91",
-   "eigenlabs-yukon-staging/p-neq-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-neq-np-lean-proof/pull/3",
+   "eigenlabs-yukon-staging/bsc-2000-1000": "https://github.com/eigenlabs-yukon-staging/bsc-2000-1000/pull/7",
+   "eigenlabs-yukon-staging/p-equals-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-equals-np-lean-proof/pull/93",
+   "eigenlabs-yukon-staging/p-neq-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-neq-np-lean-proof/pull/4",
    "layr-labs/arena-fortress": "https://github.com/Layr-Labs/arena-fortress/pull/159",
    "layr-labs/curvesma.sh": "https://github.com/Layr-Labs/curvesma.sh/pull/4418",
    "layr-labs/dcp": "https://github.com/Layr-Labs/dcp/pull/1840",
