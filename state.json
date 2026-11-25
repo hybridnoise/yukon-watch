@@ -111,6 +111,7 @@
     "/create",
     "/curvesmash",
     "/ecdsafail-lean",
+    "/evm.fast",
     "/leaderboard",
     "/lighter",
     "/openrsi",
@@ -119,7 +120,7 @@
     "/terms",
     "/virtualembryo"
    ],
-   "showing": "6 of 19"
+   "showing": "6 of 17"
   },
   "layr_repos": [
    "EigenHopper",
