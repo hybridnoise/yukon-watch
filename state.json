@@ -2,7 +2,7 @@
  "degraded": [],
  "fail_streak": {
   "api_challenges": 0,
-  "api_tracks": 1,
+  "api_tracks": 0,
   "homepage": 0,
   "layr_repos": 0,
   "org_events": 0,
@@ -112,19 +112,19 @@
   },
   "homepage": {
    "links": [
+    "/circuitbreaker",
+    "/commit-golf",
     "/create",
-    "/curvesmash",
-    "/ecdsafail-lean",
+    "/dcp",
     "/evm.fast",
     "/leaderboard",
     "/lighter",
     "/openrsi",
     "/privacy",
-    "/shorecdlp",
     "/terms",
     "/virtualembryo"
    ],
-   "showing": "6 of 17"
+   "showing": "6 of 20"
   },
   "layr_repos": [
    "EigenHopper",
