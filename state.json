@@ -116,15 +116,15 @@
     "/commit-golf",
     "/create",
     "/dcp",
+    "/evm.fast",
     "/leaderboard",
     "/lighter",
     "/openrsi",
     "/privacy",
-    "/shorecdlp",
     "/terms",
     "/virtualembryo"
    ],
-   "showing": "6 of 22"
+   "showing": "6 of 20"
   },
   "layr_repos": [
    "EigenHopper",
@@ -360,7 +360,7 @@
    "eigenlabs-yukon-staging/bsc-2000-1000": "https://github.com/eigenlabs-yukon-staging/bsc-2000-1000/pull/169",
    "eigenlabs-yukon-staging/p-equals-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-equals-np-lean-proof/pull/146",
    "eigenlabs-yukon-staging/p-neq-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-neq-np-lean-proof/pull/6",
-   "eigenlabs-yukon-staging/proof-golf-praxis": "https://github.com/eigenlabs-yukon-staging/proof-golf-praxis/pull/33",
+   "eigenlabs-yukon-staging/proof-golf-praxis": "https://github.com/eigenlabs-yukon-staging/proof-golf-praxis/pull/35",
    "layr-labs/arena-fortress": "https://github.com/Layr-Labs/arena-fortress/pull/159",
    "layr-labs/curvesma.sh": "https://github.com/Layr-Labs/curvesma.sh/pull/4418",
    "layr-labs/dcp": "https://github.com/Layr-Labs/dcp/pull/1840",
