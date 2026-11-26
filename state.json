@@ -112,19 +112,18 @@
   },
   "homepage": {
    "links": [
-    "/circuitbreaker",
-    "/commit-golf",
     "/create",
-    "/dcp",
-    "/evm.fast",
+    "/curvesmash",
+    "/ecdsafail-lean",
     "/leaderboard",
     "/lighter",
     "/openrsi",
     "/privacy",
+    "/shorecdlp",
     "/terms",
     "/virtualembryo"
    ],
-   "showing": "6 of 20"
+   "showing": "6 of 19"
   },
   "layr_repos": [
    "EigenHopper",
@@ -361,7 +360,7 @@
    "eigenlabs-yukon-staging/p-equals-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-equals-np-lean-proof/pull/146",
    "eigenlabs-yukon-staging/p-neq-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-neq-np-lean-proof/pull/6",
    "eigenlabs-yukon-staging/proof-golf-praxis": "https://github.com/eigenlabs-yukon-staging/proof-golf-praxis/pull/47",
-   "eigenlabs-yukon-staging/proof-golf-praxis-steps": "https://github.com/eigenlabs-yukon-staging/proof-golf-praxis-steps/pull/12",
+   "eigenlabs-yukon-staging/proof-golf-praxis-steps": "https://github.com/eigenlabs-yukon-staging/proof-golf-praxis-steps/pull/19",
    "layr-labs/arena-fortress": "https://github.com/Layr-Labs/arena-fortress/pull/159",
    "layr-labs/curvesma.sh": "https://github.com/Layr-Labs/curvesma.sh/pull/4418",
    "layr-labs/dcp": "https://github.com/Layr-Labs/dcp/pull/1840",
