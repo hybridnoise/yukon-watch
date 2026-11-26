@@ -112,10 +112,9 @@
   },
   "homepage": {
    "links": [
-    "/circuitbreaker",
-    "/commit-golf",
     "/create",
-    "/dcp",
+    "/curvesmash",
+    "/ecdsafail-lean",
     "/leaderboard",
     "/lighter",
     "/openrsi",
@@ -124,7 +123,7 @@
     "/terms",
     "/virtualembryo"
    ],
-   "showing": "6 of 22"
+   "showing": "6 of 19"
   },
   "layr_repos": [
    "EigenHopper",
