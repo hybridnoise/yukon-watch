@@ -357,7 +357,7 @@
    }
   },
   "validate_prs": {
-   "eigenlabs-yukon-staging/better-verifiers-real-paper": "https://github.com/eigenlabs-yukon-staging/better-verifiers-real-paper/pull/9",
+   "eigenlabs-yukon-staging/better-verifiers-real-paper": "https://github.com/eigenlabs-yukon-staging/better-verifiers-real-paper/pull/10",
    "eigenlabs-yukon-staging/bsc-2000-1000": "https://github.com/eigenlabs-yukon-staging/bsc-2000-1000/pull/169",
    "eigenlabs-yukon-staging/p-equals-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-equals-np-lean-proof/pull/146",
    "eigenlabs-yukon-staging/p-neq-np-lean-proof": "https://github.com/eigenlabs-yukon-staging/p-neq-np-lean-proof/pull/6",
